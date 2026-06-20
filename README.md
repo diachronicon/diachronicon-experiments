@@ -25,7 +25,7 @@ constructions, some of which are still in draft.
 
 Alongside these experiments we release our own manual annotation of the
 ten new constructions that serve as the gold standard for the final
-experiment below.
+experiment below, as well as the script for calculating inter-annotator agreement.
 
 [The dataset](dataset/)
 
