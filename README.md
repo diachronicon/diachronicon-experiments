@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1232458948.svg)](https://doi.org/10.5281/zenodo.21316288)
+
 # Diachronicon Experiments
 
 This repository collects the experiments from the second stage of the
