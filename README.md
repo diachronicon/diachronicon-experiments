@@ -1,4 +1,4 @@
-[[![DOI](https://zenodo.org/badge/1232458948.svg)](https://doi.org/10.5281/zenodo.21316288)](https://doi.org/10.5281/zenodo.24418471)
+[[![DOI](https://zenodo.org/badge/1232458948.svg)](https://doi.org/10.5281/zenodo.24418471)]
 
 # Diachronicon Experiments
 
